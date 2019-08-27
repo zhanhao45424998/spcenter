@@ -1,0 +1,14 @@
+.mini{
+    /deep/.el-submenu__title{
+      font-size: $font-small !important;
+    }
+    /deep/.el-menu-item{
+      font-size: $font-small !important;
+    }
+    /deep/.el-button{
+      font-size: $font-small !important;
+    }
+    /deep/table{
+      font-size:$font-small !important;
+    }
+}

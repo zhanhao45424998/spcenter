@@ -1,0 +1,15 @@
+@import './mainfont.scss';
+:export {
+  /deep/.el-submenu__title{
+    font-size: $font-max !important;
+  }
+  /deep/.el-menu-item{
+    font-size: $font-max !important;
+  }
+  /deep/.el-button{
+    font-size: $font-max !important;
+  }
+  /deep/table{
+    font-size:$font-max !important;
+  }
+}
